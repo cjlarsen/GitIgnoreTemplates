@@ -1,0 +1,2 @@
+# GitIgnoreTemplates
+My gitignore templates
